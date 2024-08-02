@@ -19,6 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <div className="flex justify-around">
+          <Link href="/dashboard">Dashboard</Link>
           <Link href="/workorders">Work Orders</Link>
           <Link href="/assets">Assets</Link>
           <Link href="/contacts">Contacts</Link>

@@ -1,3 +1,6 @@
 export default function WorkOrderPage(){
-    return (<p>Work Orders</p>)
+    return (<div>
+        <p>Work Orders</p>
+        
+        </div>)
 }
